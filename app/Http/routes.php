@@ -17,7 +17,7 @@ Route::get('/', function () {
 
 //ruta
 Route::get('notes/create', function(){
-  return 'hola mundo jejejej no es asi';
+  return 'hola mundo jejejej no es asi   dsfdsfdsffdsf';
 });
 
 //ruta con parametro de envio (parametro dinamico entre {xyz})
