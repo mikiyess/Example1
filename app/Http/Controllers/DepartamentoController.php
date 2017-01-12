@@ -26,7 +26,7 @@ class DepartamentoController extends Controller
      */
     public function create()
     {
-        //
+        //eeeetrete
     }
 
     /**
